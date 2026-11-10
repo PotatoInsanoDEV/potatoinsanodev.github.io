@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "br.com.dannd.potatinja",
-    "sha256_cert_fingerprints": ["COLE_AQUI_O_SHA256_DA_CHAVE_DE_ASSINATURA_DO_PLAY_CONSOLE"]
+    "sha256_cert_fingerprints": ["06:7E:1A:96:82:0E:8C:56:A7:CA:1B:08:C4:56:6E:CD:8E:19:E9:BE:A0:E7:F6:2F:24:FE:7A:2E:91:91:4F:A9"]
   }
 }]
